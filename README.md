@@ -1,5 +1,4 @@
 # HELLO-WORLD
 GitHub初学
 welcome!
-This is a start of my projects in github.
-HARD WORKING AND STUDING.
+学习，内省，善意，信仰。
